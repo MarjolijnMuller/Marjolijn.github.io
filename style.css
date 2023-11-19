@@ -9,6 +9,7 @@ header{
   text-align: center;
   background-image: url(https://www.creativefabrica.com/wp-content/uploads/2020/04/23/Pattern-Graphics-3935692-1-1-580x435.jpg);
   display: fixed;
+  height: 50px;
 }
 
 h1{
